@@ -1,0 +1,37 @@
+1. O(n)
+2. O(n)
+3. O(1)
+4. O(n^2) **Is there any significant difference b/w O(n^2) and O(n^3)?
+5. O(n)
+6. O(n)
+7. O(log(n))  O(n log n)  whats the difference here?
+8. O(2^n)
+9. O(1)
+10. O(n^2)
+
+
+Part 2:
+1. O(n)
+2. O(n)
+3. O(1)
+4. O(n)
+5. O(n^2)
+6. O(n)
+
+
+Part 3:
+1. true
+2. false  **is there any difference n^2 and n^3 for big O time purposes?
+3. false
+4. O(n)
+5. O(n)
+6. O(n)
+7. O(n)  ** O(n log n)
+8. O(1)  O(n) because it adds and returns a new array
+9. O(1)
+10. O(1)  have to assume the worst so O(n)
+11. O(1)
+12. O(n)
+
+BONUS:
+O(n)
